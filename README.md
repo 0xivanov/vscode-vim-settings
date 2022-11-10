@@ -1,5 +1,5 @@
 # vscode-vim-settings
-
+```json
 "vim.normalModeKeyBindingsNonRecursive": [
     {
       "before": ["i"],
