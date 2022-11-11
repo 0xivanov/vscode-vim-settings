@@ -1,7 +1,7 @@
 # vscode-vim-settings
 ```json
-"vim.normalModeKeyBindingsNonRecursive": [
   "vim.useSystemClipboard": true,
+  "vim.normalModeKeyBindingsNonRecursive": [
     {
       "before": ["i"],
       "after": ["k"]
